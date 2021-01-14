@@ -1,0 +1,120 @@
+*{box-sizing:boder-box;
+
+}
+          body{
+              margin-top: 0px;
+              margin-left:0px;
+        
+background : linear-gradient(aqua, rgb(12, 15, 219));
+background-repeat: no-repeat;
+          }
+          .center{
+              position: relative;
+              right: 10%;
+          }
+         
+          .heading{
+              margin: 30px;
+            text-align: center;
+              font-size: large;
+          }
+          .logo{
+              position: absolute;
+              top: 150%;
+              right:4%;
+              width: 100;
+              height: 100;
+             
+          }
+        
+          hr{
+              border-style: groove;
+              height: 10px;
+          }
+          .bottom{
+              padding: 0%;
+              margin: 0px;
+          }
+          div{
+            position: center;
+            padding: 10px;
+
+          }
+   .type{position: absolute;
+    top:15%;
+    right:45%;
+    padding: 0%;
+       background-color: blue;
+       color: antiquewhite;
+       border-style: solid  ;
+       border-radius: 35px;
+       border-color: antiquewhite;
+       width: 145px;
+       height: 45px;
+       text-align: center;
+       font-size: 30px;
+     
+
+   }
+ .ha{ 
+     color: rgb(11, 11, 112);
+     text-align: center;
+     font-size: 4em;
+     margin: 0%;
+   
+     
+ }    
+ .ha1{
+    margin: 0%;
+    padding:1%;
+ 
+    color: rgb(185, 5, 14);
+    text-align: center;
+    font-size:5em;
+  
+}    
+.ha2{ margin: 0%;
+    padding:1%;
+  
+    color: rgb(5, 5, 5);
+    text-align: center;
+    font-size: 2em;
+   
+}    
+     .main{position: absolute;
+      left: 80%;
+     margin: 70px,20px,20px,20px;
+    padding: 10px;
+    width: 650;
+ height : 1500;
+  background-color: rgb(13, 10, 235);
+  color:aliceblue ;
+
+     }
+     .class{
+        font-size: 30px; 
+        text-align:center;
+        letter-spacing: 2px;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+     }
+ .left{ 
+  
+    margin:10px;
+    padding: 5px;
+background-color: rgb(6, 6, 7);
+ border-style: solid,2px ,black ;
+box-shadow: 3px;
+}
+.icse{ position: relative;
+    left: 15%;
+    background-color: aliceblue;
+    width: 40px;
+    height: 40px;
+    font-size: 2em;
+    text-align: center;
+    float: left;
+    margin: 5px;
+    padding: 2px;
+    color: blueviolet;
+    text-decoration:solid;
+}
